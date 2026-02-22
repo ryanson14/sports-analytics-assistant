@@ -2,8 +2,8 @@
 
 import { useState, FormEvent } from "react";
 
-const API_QUERY = "http://localhost:8000/api/query";
-const API_COMPARE = "http://localhost:8000/api/compare";
+const API_QUERY = "https://sports-analytics-assistant-production.up.railway.app/api/query";
+const API_COMPARE = "https://sports-analytics-assistant-production.up.railway.app/api/compare";
 
 type Mode = "single" | "compare";
 
