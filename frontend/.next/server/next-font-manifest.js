@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/ryanson/Desktop/SportsAnalytics/frontend/app/layout":["static/media/1b760af648eff2fb-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/ryanson/Desktop/SportsAnalytics/frontend/app/layout\":[\"static/media/7b0b24f36b1a6d0b-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
